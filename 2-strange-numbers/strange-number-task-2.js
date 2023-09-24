@@ -9,5 +9,4 @@ function strangeNumber(number) { // объявил функцию strangeNumber
    return sum === number;
 }
 
-//проверка
 strangeNumber(6);
