@@ -44,8 +44,8 @@ const MathX = { // создал переменную в которой хран�
 
 
 console.log(MathX.fibonachiNumber(77));
-console.log(MathX.fibonachiSeries(1000));
-console.log(MathX.simpleNumber(53))
-console.log(MathX.simpleNumbersSeries(20));
+console.log(MathX.fibonachiRow(1000));
+console.log(MathX.isPrime(53))
+console.log(MathX.primeNumbers(20));
 
 
