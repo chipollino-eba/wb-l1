@@ -17,3 +17,4 @@ function palindrome(str) { // объявил функцию palindrome
 console.log(palindrome("hhuuhh"));
 console.log(palindrome("hhuuuhh"));
 console.log(palindrome("hhuuhh1"));
+
